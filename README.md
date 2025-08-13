@@ -38,9 +38,9 @@ Book-CRUD-API/
 
 1️⃣ Clone the Repository
 
-git clone https://github.com/your-username/book-crud-api.git
+git clone https://github.com/lokeshh301/SpringBoot_API.git
 
-cd book-crud-api
+cd SpringBoot_API
 
 2️⃣ Configure Database (MySQL)
 
